@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleConsoleWriteLine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfe67a4ca6d3f3a0cd77899c2c2e9041ccf441d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleConsoleWriteLine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleConsoleWriteLine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
